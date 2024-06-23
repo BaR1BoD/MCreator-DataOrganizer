@@ -1,0 +1,11 @@
+{
+  "data_organizer": {
+    "latest": "2.0.0",
+    "changes": [
+      "Added blocks to check the Object variable type",
+      "Added advanced blocks such as List Filter, List Mapping, Sublist",
+      "Fixed some bugs",
+      "Fixed some spelling mistakes"
+    ]
+  }
+}
