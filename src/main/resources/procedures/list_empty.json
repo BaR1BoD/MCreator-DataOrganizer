@@ -1,0 +1,8 @@
+{
+  "inputsInline": true,
+  "output": "List",
+  "colour": "%{BKY_LIST_HUE}",
+  "mcreator": {
+    "toolbox_id": "data_organizer_utils"
+  }
+}

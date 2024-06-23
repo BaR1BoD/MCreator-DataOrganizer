@@ -1,0 +1,21 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "map",
+      "check": "Map"
+    }
+  ],
+  "inputsInline": true,
+  "output": "List",
+  "colour": "%{BKY_List_HUE}",
+  "mcreator": {
+    "toolbox_id": "data_organizer_map",
+    "toolbox_init": [
+      "<value name=\"map\"><block type=\"variables_get_map\"></block></value>"
+    ],
+    "inputs": [
+      "map"
+    ]
+  }
+}

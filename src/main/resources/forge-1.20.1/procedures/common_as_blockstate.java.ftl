@@ -1,0 +1,1 @@
+/*@BlockState*/(${input$value} instanceof BlockState _blockstateValue ? _blockstateValue : Blocks.AIR.defaultBlockState())

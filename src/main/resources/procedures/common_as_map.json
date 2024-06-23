@@ -1,0 +1,17 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "value"
+    }
+  ],
+  "inputsInline": false,
+  "output": "Map",
+  "colour": "%{BKY_MAP_HUE}",
+  "mcreator": {
+    "toolbox_id": "data_organizer_utils",
+    "inputs": [
+      "value"
+    ]
+  }
+}

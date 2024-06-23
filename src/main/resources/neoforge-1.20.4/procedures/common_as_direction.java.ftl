@@ -1,0 +1,1 @@
+(${input$value} instanceof Direction _directionValue ? _directionValue : Direction.UP)

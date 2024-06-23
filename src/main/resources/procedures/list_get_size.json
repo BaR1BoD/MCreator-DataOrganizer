@@ -1,0 +1,21 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "list",
+      "check": "List"
+    }
+  ],
+  "inputsInline": true,
+  "output": "Number",
+  "colour": "%{BKY_MATH_HUE}",
+  "mcreator": {
+    "toolbox_id": "data_organizer_list",
+    "toolbox_init": [
+      "<value name=\"list\"><block type=\"variables_get_list\"></block></value>"
+    ],
+    "inputs": [
+      "list"
+    ]
+  }
+}

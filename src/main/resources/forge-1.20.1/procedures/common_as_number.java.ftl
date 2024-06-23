@@ -1,0 +1,1 @@
+(${input$value} instanceof Number _doubleValue ? _doubleValue.doubleValue() : 0.0)

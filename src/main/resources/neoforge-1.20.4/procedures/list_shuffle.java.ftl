@@ -1,0 +1,1 @@
+Collections.shuffle(${input$list});

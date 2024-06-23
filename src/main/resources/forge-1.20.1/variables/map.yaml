@@ -1,0 +1,9 @@
+scopes:
+  local:
+    init: Map<Object, Object> ${var.getName()} = new HashMap<>();
+    get: ${name}
+    set: ${name} = ${opt.removeParentheses(value)};
+  global_session:
+    init: public static Map<Object, Object> ${var.getName()} = new HashMap<>();
+    get: ${JavaModName}Variables.${name}
+    set: ${JavaModName}Variables.${name} = ${opt.removeParentheses(value)};

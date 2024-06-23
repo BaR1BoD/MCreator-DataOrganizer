@@ -1,0 +1,1 @@
+IntStream.range(0, ${input$keys}.size()).boxed().collect(Collectors.toMap(${input$keys}::get, ${input$values}::get))

@@ -1,0 +1,35 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "index1",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "index2",
+      "check": "Number"
+    },
+    {
+      "type": "input_value",
+      "name": "list",
+      "check": "List"
+    }
+  ],
+  "inputsInline": true,
+  "output": "List",
+  "colour": "%{BKY_LIST_HUE}",
+  "mcreator": {
+    "toolbox_id": "data_organizer_advanced",
+    "toolbox_init": [
+      "<value name=\"index1\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>",
+      "<value name=\"index2\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>",
+      "<value name=\"list\"><block type=\"variables_get_list\"></block></value>"
+    ],
+    "inputs": [
+      "index1",
+      "index2",
+      "list"
+    ]
+  }
+}

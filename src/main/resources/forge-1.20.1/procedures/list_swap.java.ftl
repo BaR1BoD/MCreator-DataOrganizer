@@ -1,0 +1,1 @@
+Collections.swap(${input$list}, ${opt.toInt(input$index1)}, ${opt.toInt(input$index2)});
