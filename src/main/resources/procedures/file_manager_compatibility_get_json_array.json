@@ -1,0 +1,27 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "name",
+      "check": "String"
+    },
+    {
+      "type": "input_value",
+      "name": "jsonObject",
+      "check": "JsonObject"
+    }
+  ],
+  "inputsInline": true,
+  "output": "JsonArray",
+  "colour": "#5B3B77",
+  "mcreator": {
+    "toolbox_id": "data_organizer_utils",
+    "toolbox_init": [
+      "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>"
+    ],
+    "inputs": [
+      "name",
+      "jsonObject"
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+for (${field$varType} ${field$initialVarName} =<#if field$varType == "int">${opt.toInt(input$initialValue)}<#else>${input$initialValue}</#if>; ${field$conditionVarName} ${field$condition} <#if field$varType == "int">${opt.toInt(input$conditionValue)}<#else>${input$conditionValue}</#if>; ${field$operationVarName} ${field$operation} <#if field$varType == "int">${opt.toInt(input$operationValue)}<#else>${input$operationValue}</#if>) {
+    ${statement$foreach}
+}

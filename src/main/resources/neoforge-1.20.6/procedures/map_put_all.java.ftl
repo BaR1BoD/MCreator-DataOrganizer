@@ -1,0 +1,1 @@
+${input$destination}.putAll(${input$source});

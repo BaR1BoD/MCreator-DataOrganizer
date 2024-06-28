@@ -1,0 +1,1 @@
+${input$list} = ${input$list}.stream().distinct().toList();

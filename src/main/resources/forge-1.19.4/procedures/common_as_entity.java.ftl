@@ -1,0 +1,1 @@
+(${input$value} instanceof Entity _entityValue ? _entityValue : null)

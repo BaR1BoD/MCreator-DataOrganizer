@@ -1,0 +1,1 @@
+new com.google.gson.Gson().toJsonTree(${input$map}).getAsJsonObject()

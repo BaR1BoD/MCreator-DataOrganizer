@@ -1,0 +1,1 @@
+(${input$value} instanceof Boolean _booleanValue ? _booleanValue : false)

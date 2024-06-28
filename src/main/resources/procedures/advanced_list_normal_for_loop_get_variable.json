@@ -1,0 +1,18 @@
+{
+  "args0": [
+    {
+      "type": "field_forloop_var_name",
+      "name": "varName",
+      "text": "varName"
+    }
+  ],
+  "inputsInline": true,
+  "output": "Number",
+  "colour": "%{BKY_MATH_HUE}",
+  "mcreator": {
+    "toolbox_id": "data_organizer_advanced",
+    "fields": [
+      "varName"
+    ]
+  }
+}

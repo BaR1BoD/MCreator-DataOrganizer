@@ -1,0 +1,18 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "jsonArray",
+      "check": "JsonArray"
+    }
+  ],
+  "inputsInline": true,
+  "output": "List",
+  "colour": "%{BKY_LIST_HUE}",
+  "mcreator": {
+    "toolbox_id": "data_organizer_utils",
+    "inputs": [
+      "jsonArray"
+    ]
+  }
+}

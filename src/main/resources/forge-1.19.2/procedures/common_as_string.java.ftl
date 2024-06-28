@@ -1,0 +1,1 @@
+(${input$value} instanceof String _stringValue ? _stringValue : "")

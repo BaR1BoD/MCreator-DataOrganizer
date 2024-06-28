@@ -1,0 +1,1 @@
+(${input$value} instanceof List _listValue ? _listValue : new ArrayList<>())

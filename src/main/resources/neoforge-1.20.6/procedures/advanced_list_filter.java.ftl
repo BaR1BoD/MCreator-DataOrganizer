@@ -1,0 +1,1 @@
+${input$list}.stream().filter(${field$procedure}Procedure::execute).toList()

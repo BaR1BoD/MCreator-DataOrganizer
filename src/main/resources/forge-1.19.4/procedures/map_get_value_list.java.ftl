@@ -1,0 +1,1 @@
+${input$map}.values().stream().toList()

@@ -1,0 +1,18 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "jsonObject",
+      "check": "JsonObject"
+    }
+  ],
+  "inputInline": true,
+  "output": "Map",
+  "colour": "%{BKY_MAP_HUE}",
+  "mcreator": {
+    "toolbox_id": "data_organizer_utils",
+    "inputs": [
+      "jsonObject"
+    ]
+  }
+}

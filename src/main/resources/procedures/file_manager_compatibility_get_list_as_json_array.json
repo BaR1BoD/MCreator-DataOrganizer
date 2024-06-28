@@ -1,0 +1,21 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "list",
+      "check": "List"
+    }
+  ],
+  "inputsInline": true,
+  "output": "JsonArray",
+  "colour": "#5B3B77",
+  "mcreator": {
+    "toolbox_id": "data_organizer_utils",
+    "toolbox_init": [
+      "<value name=\"list\"><block type=\"variables_get_list\"></block></value>"
+    ],
+    "inputs": [
+      "list"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+Collections.disjoint(${input$list1}, ${input$list2})

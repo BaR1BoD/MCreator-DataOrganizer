@@ -1,0 +1,1 @@
+/*@ItemStack*/(${input$value} instanceof ItemStack _itemstackValue ? _itemstackValue : ItemStack.EMPTY)

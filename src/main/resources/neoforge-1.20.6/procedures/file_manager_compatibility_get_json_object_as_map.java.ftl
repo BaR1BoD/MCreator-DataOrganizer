@@ -1,0 +1,1 @@
+new com.google.gson.Gson().fromJson(${input$jsonObject}, new com.google.gson.reflect.TypeToken<Map<Object, Object>>(){}.getType())

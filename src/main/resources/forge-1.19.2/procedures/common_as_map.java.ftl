@@ -1,0 +1,1 @@
+(${input$value} instanceof Map _mapValue ? _mapValue : new HashMap<>())

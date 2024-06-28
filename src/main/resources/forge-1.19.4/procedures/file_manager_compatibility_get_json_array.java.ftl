@@ -1,0 +1,1 @@
+${input$jsonObject}.getAsJsonArray(${input$name})
