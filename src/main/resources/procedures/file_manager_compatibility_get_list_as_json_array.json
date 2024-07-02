@@ -10,7 +10,7 @@
   "output": "JsonArray",
   "colour": "#5B3B77",
   "mcreator": {
-    "toolbox_id": "data_organizer_utils",
+    "toolbox_id": "$data_organizer_compatibilities",
     "toolbox_init": [
       "<value name=\"list\"><block type=\"variables_get_list\"></block></value>"
     ],

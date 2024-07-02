@@ -10,7 +10,7 @@
   "output": "List",
   "colour": "%{BKY_LIST_HUE}",
   "mcreator": {
-    "toolbox_id": "data_organizer_utils",
+    "toolbox_id": "$data_organizer_compatibilities",
     "inputs": [
       "jsonArray"
     ]
