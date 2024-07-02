@@ -3,6 +3,7 @@ plugins {
 }
 
 group = 'me.barbod.data_organizer'
+version = "2.1.0"
 
 sourceCompatibility = 17
 targetCompatibility = 17
