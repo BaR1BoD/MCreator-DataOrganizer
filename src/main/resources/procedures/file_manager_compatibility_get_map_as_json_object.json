@@ -10,7 +10,7 @@
   "output": "JsonObject",
   "colour": "#5B3B77",
   "mcreator": {
-    "toolbox_id": "$data_organizer_compatibilities",
+    "toolbox_id": "data_organizer_compatibilities",
     "toolbox_init": [
       "<value name=\"map\"><block type=\"variables_get_map\"></block></value>"
     ],

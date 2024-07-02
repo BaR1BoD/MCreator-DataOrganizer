@@ -15,7 +15,7 @@
   "output": "JsonArray",
   "colour": "#5B3B77",
   "mcreator": {
-    "toolbox_id": "$data_organizer_compatibilities",
+    "toolbox_id": "data_organizer_compatibilities",
     "toolbox_init": [
       "<value name=\"name\"><block type=\"text\"><field name=\"TEXT\">name</field></block></value>"
     ],
