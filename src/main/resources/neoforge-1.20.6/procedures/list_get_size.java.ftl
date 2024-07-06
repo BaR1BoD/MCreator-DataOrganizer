@@ -1,1 +1,1 @@
-${input$list}.size();
+${input$list}.size()
