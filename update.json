@@ -1,11 +1,14 @@
 {
   "data_organizer": {
-    "latest": "2.0.0",
+    "latest": "2.1.0",
     "changes": [
-      "Added blocks to check the Object variable type",
-      "Added advanced blocks such as List Filter, List Mapping, Sublist",
-      "Fixed some bugs",
-      "Fixed some spelling mistakes"
+      "Port to MCreator 2024.2",
+      "Added Forge-1.19.2, Forge-1.19.4 support",
+      "Added subcategory Compatibilities",
+      "Added \"File Manager\" plugin compatibility",
+      "Added normal for loop",
+      "Fixed Sublist block",
+      "Fixed Get list size block"
     ]
   }
 }
